@@ -1,0 +1,15 @@
+h1{
+    font-style: italic;
+    color: red;
+    position: center;
+}
+h6{
+    font-style:  italic;
+    color: blue;
+    position: center;
+}
+button{
+    background: none;
+    background-color: aqua;
+    border: none;
+}
